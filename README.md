@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-[![Edit vuevuex-simple-async-drag-drop-text-upload-and-preview](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/onceupon/vuex-async-dragdrop-preview-textfile/tree/master/)
+[![Edit vuevuex-simple-async-drag-drop-text-upload-and-preview](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/jjqlw0yn85)
 
 ## Build Setup
 
