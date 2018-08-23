@@ -91,7 +91,7 @@ export default {
 
 <style lang="scss" scoped>
 .columns {
-    height: 400px;
+    height: 330px;
     margin:2em;
     .column {
         border: 1px solid #888;

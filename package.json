@@ -1,7 +1,7 @@
 {
   "name": "vuevuex-simple-async-drag-drop-text-upload-and-preview",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple example for  async drag-drop text upload and preview with Vue+Vuex",
   "main": "src/main.js",
   "private": true,
   "scripts": {
@@ -85,9 +85,9 @@
   ],
   "keywords": [
     "#vue",
-    "async",
-    "vuex",
+    "#vuex",
     "dragdrop",
-    "text"
+    "async",
+    "preview"
   ]
 }
